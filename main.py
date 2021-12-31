@@ -9,8 +9,6 @@ import os
 import sqlite3
 from orm import *
 token = '<bot:token>'
-# secret  = 'aolddfbubu'
-# url = 'https://fsfwioeafwwef.pythonanywhere.com/'+secret
 
 bot = telebot.TeleBot(token)
 admin_id = '986769710'
